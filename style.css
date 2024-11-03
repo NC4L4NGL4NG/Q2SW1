@@ -1,0 +1,19 @@
+body {
+		background-color: navajowhite;
+		color: blue;
+		font-family: monospace;
+	}
+
+	.col-md {
+		background-color: powderblue;
+				margin:auto;
+
+	img{
+		width: 300px;
+		border-radius: 90px;
+		border: 3px;
+		margin:5%;
+		display:flex;
+		alight-content: center;
+		justify-content: center;
+		vertical-align: 100;
